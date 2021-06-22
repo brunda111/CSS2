@@ -17,7 +17,7 @@ html{
 header{
     background: linear-gradient( to right,red,blue);
   background-size:cover;
-  height:110vh;
+  height:130vh;
 
 }
 html{
@@ -144,5 +144,11 @@ h2{
     padding:10px;
     width:500px;
     height:100px;
+}
+.box1{
+    padding:5px;
+    height:35px;
+    width:35px;
+    text-align:center;
 }
 
